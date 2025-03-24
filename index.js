@@ -54,7 +54,7 @@ async function run() {
   }
 }
 run().catch(console.dir);
-
+// CONNECTION USING MONGOSE - END HERE
 
 //Middleware
 app.use(express.json());
